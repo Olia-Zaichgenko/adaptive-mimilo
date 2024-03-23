@@ -1,0 +1,189 @@
+@font-face{
+    font-family: "Montserrat-ThinItalic";
+    src: url(../fonts/Montserrat/Montserrat-ThinItalic.ttf);
+    font-weight: 100;
+    font-style: italic; 
+}
+
+@font-face{
+    font-family: "Montserrat-Thin";
+    src: url(../fonts/Montserrat/Montserrat-Thin.ttf);
+    font-weight: 100;
+    font-style: normal; 
+}
+
+@font-face {
+    font-family: "Montserrat-BlackItalic";
+    src: url(../fonts/Montserrat/Montserrat-BlackItalic.ttf);
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Montserrat-Black";
+    src: url(../fonts/Montserrat/Montserrat-Black.ttf);
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Montserrat-MediumItalic";
+    src: url(../fonts/Montserrat/Montserrat-MediumItalic.ttf);
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Monserrat-BoldItalic";
+    src: url(../fonts/Montserrat/Montserrat-BoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Monserrat-Bold";
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Monserrat-SemiBoldItalic";
+    src: url(../fonts/Montserrat/Montserrat-SemiBoldItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Monserrat-SemiBold";
+    src: url(../fonts/Montserrat/Montserrat-SemiBold.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Monserrat-ExtraBoldItalic";
+    src: url(../fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf);
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Monserrat-ExtraBold";
+    src: url(../fonts/Montserrat/Montserrat-ExtraBold.ttf);
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Monserrat-ExtraLightItalic";
+    src: url(../fonts/Montserrat/Montserrat-ExtraLightItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Monserrat-LightItalic";
+    src: url(../fonts/Montserrat/Montserrat-LightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Monserrat-Light";
+    src: url(../fonts/Montserrat/Montserrat-Light.ttf);
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Monserrat-Medium";
+    src: url(../fonts/Montserrat/Montserrat-Medium.ttf);
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: "Monserratnormal";
+    src: url(../fonts/Montserrat/Montserratnormal.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: "Cormorant-Italic";
+    src: url(../fonts/Cormorant_Infant/CormorantInfant-Italic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Cormorant-LightItalic";
+    src: url(../fonts/Cormorant_Infant/CormorantInfant-LightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Cormorant-MediumItalic";
+    src: url(../fonts/Cormorant_Infant/CormorantInfant-MediumItalic.ttf);
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Cormorant-SemiBoldItalic";
+    src: url(../fonts/Cormorant_Infant/CormorantInfant-SemiBoldItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Cormorant-Bold";
+    src: url(../fonts/Cormorant_Infant/CormorantInfant-Bold.ttf);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cormorant";
+    src: url(../fonts/Cormorant_Infant/CormorantInfant.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cormorant-Light";
+    src: url(../fonts/Cormorant_Infant/CormorantInfant-Light.ttf);
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cormorant-Medium";
+    src: url(../fonts/Cormorant_Infant/CormorantInfant-Medium.ttf);
+    font-weight: 500;
+    font-style: normal
+}
+
+@font-face{
+    font-family: "Cormorant-SemiBold";
+    src: url(../fonts/Cormorant_Infant/CormorantInfant-SemiBold.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "Cormorant-Regular";
+    src: url(../fonts/Cormorant_Infant/CormorantInfant-Regular.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+
+
+
+
